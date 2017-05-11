@@ -1,0 +1,64 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+  background-image: url("/Users/matthewmciver/documents/dev/broadway/assets/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  max-width: 1920px;
+}
+
+h1 {
+  font-size: 70px;
+}
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+.menu, a {
+  font-size: 18px;
+  color: white;
+  letter-spacing: 2px;
+  text-decoration: none;
+  padding: 15px;
+}
+
+.txt-white {
+  color: white;
+}
+
+.hero {
+  padding:50px;
+  width: 100%;
+  max-width: 1280px;
+  display: block;
+}
+
+.content {
+  background-color: white;
+  padding: 50px;
+}
+
+.footer {
+  background-color: white;
+  padding: 50px;
+  font-size: bold;
+}
+
+.parallax {
+  padding: 50px;
+  color: white;
+}
+
+.subfooter {
+  background-color: dimgrey;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+  padding: 10px;
+}
